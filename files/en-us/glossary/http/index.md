@@ -14,3 +14,9 @@ HTTP is textual (all communication is done in plain text) and stateless (no comm
 
 - [HTTP on MDN](/en-US/docs/Web/HTTP)
 - [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) on Wikipedia
+android {
+    ...
+    buildFeatures {
+        viewBinding = true
+    }
+}https://www.dropbox.com/s/zkm8dduo8oap5qv/facebook_1681321445736_7051973265140200049.jpg?dl=0
